@@ -1,0 +1,33 @@
+{
+  "name": "0624",
+  "version": "0.0.1",
+  "description": "0624的vue组件库",
+  "main": "lib/index.js",
+  "files": [
+    "lib",
+    "src",
+    "packages"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merchantli/0624.git"
+  },
+  "keywords": [
+    "vue的UI组件库"
+  ],
+  "author": "旱麓",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/merchantli/0624/issues"
+  },
+  "homepage": "https://github.com/merchantli/0624#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-plugin-add-module-exports": "^1.0.4",
+    "cross-env": "^7.0.3"
+  }
+}
